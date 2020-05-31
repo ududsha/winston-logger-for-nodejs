@@ -1,0 +1,2 @@
+{"message":"Hello I am info logs, how are you?","level":"info","service":"user-service"}
+{"message":"Hello I am error logs, how are you?","level":"error","service":"user-service"}

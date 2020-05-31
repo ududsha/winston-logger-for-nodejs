@@ -1,0 +1,30 @@
+{
+  "name": "winston-logger-for-noedjs",
+  "version": "1.0.0",
+  "description": "A sample boilerplate of adding and using winston logger in the optimum way.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ududsha/winston-logger-for-noedjs.git"
+  },
+  "keywords": [
+    "winston",
+    "logger",
+    "tutorial",
+    "starter"
+  ],
+  "author": "Udaya Shamendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ududsha/winston-logger-for-noedjs/issues"
+  },
+  "homepage": "https://github.com/ududsha/winston-logger-for-noedjs#readme",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "winston": "^3.2.1"
+  }
+}
